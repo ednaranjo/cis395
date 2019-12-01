@@ -1,2 +1,2 @@
 # cis395
-SQL Code for database design
+This repository contains SQL Code for the database systems I class.
